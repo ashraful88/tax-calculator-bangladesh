@@ -49,3 +49,6 @@ Run below command from outside of tax-calculator-bangladesh directory in Mac Ter
 php -S localhost:8000 -t tax-calculator-bangladesh 
 ```
 Then open http://localhost:8000 in browser
+
+![tax_calc_demo](https://cloud.githubusercontent.com/assets/7417924/25312120/d6c08e78-2832-11e7-8f36-2baa86182fb1.jpeg)
+
