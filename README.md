@@ -43,3 +43,9 @@ Update tex numbers base on National Board of Revenue (NBR), Bangladesh
   "months_left" = number of month left till next june 
   "slab" => "inc" = Income slabs, "per" = % of tax applicable by slab
 ```
+## Run
+Run below command from outside of tax-calculator-bangladesh directory in Mac Terminal or Ubuntu/Linux Terminal 
+```
+php -S localhost:8000 -t tax-calculator-bangladesh 
+```
+Then open http://localhost:8000 in browser
