@@ -22,8 +22,12 @@ Enter Salary of july to june
       "medical": 20000,
       "phone": 0,
       "other": 0
-    }, 
-    ```
+    },
+    .....
+    .....
+    .....
+    }
+```
 
 here "1" => month july, "2" => month Aug ..... "12"=> June 
 
@@ -31,6 +35,7 @@ here "1" => month july, "2" => month Aug ..... "12"=> June
 ## Configure
 Open Configuration file 'config.json'
 Update tex numbers base on National Board of Revenue (NBR), Bangladesh
+
 ```  "medical_basic_per" = max % of medical allowance allowed of basic salary.  
   "medical_limit" = max limit of medical allowance.
   "conveyance_limit" = max limit of conveyance allowance.
