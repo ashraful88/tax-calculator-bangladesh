@@ -1,7 +1,7 @@
 # Tax Calculator Bangladesh
 Income Tax Calculator for salaried employees in Bangladesh
 
-##Setup Your Income
+#Setup Your Income
 Enter Salary of july to june
    "salary": {
     "1": {
@@ -26,7 +26,7 @@ Enter Salary of july to june
 here "1" => month july, "2" => month Aug ..... "12"=> June 
 
 
-##Configure
+#Configure
 Open Configuration file 'config.json'
 Update tex numbers base on National Board of Revenue (NBR), Bangladesh
   "medical_basic_per" = max % of medical allowance allowed of basic salary.  
