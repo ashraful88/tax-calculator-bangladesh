@@ -1,0 +1,33 @@
+{
+  "medical_basic_per": 10,
+  "medical_limit": 120000,
+  "conveyance_limit": 30000,
+  "house_rent_limit": 300000,
+  "months_left": 4,
+  "slab": {
+    "1": {
+      "inc": 250000,
+      "per": 0
+    },
+    "2": {
+      "inc": 400000,
+      "per": 10
+    },
+    "3": {
+      "inc": 500000,
+      "per": 15
+    },
+    "4": {
+      "inc": 600000,
+      "per": 20
+    },
+    "5": {
+      "inc": 3000000,
+      "per": 25
+    },
+    "6": {
+      "inc": 3000001,
+      "per": 30
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "salary": {
+    "1": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "2": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "3": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "4": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "5": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "6": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "7": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "8": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "9": {
+      "gross": 200000,
+      "basic": 60000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "10": {
+      "gross": 200000,
+      "basic": 60000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "11": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    },
+    "12": {
+      "gross": 200000,
+      "basic": 100000,
+      "house_rent": 50000,
+      "conveyance": 10000,
+      "medical": 20000,
+      "phone": 0,
+      "other": 0
+    }
+  },
+  "bonus": [
+    9999,
+    8888
+  ],
+  "tax_paid":9999,
+  "tax_advance": 0
+}
